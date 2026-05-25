@@ -7,7 +7,7 @@ Me chamo Victor Hugo, sou do Rio de Janeiro - RJ e atuo como Desenvolvedor Full 
 Além da experiência profissional, tenho vivência prática em Cloud, aplicando arquiteturas modernas, mensageria, conteinerização e testes automatizados em meus projetos. Busco constantemente unir performance e escalabilidade, utilizando tecnologias de nuvem para otimizar o ciclo de entrega e a qualidade de software.
 
 <p align="left">
-    <a href="www.linkedin.com/in/victor-hugo-luz">
+    <a href="https://www.linkedin.com/in/victor-hugo-luz/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
